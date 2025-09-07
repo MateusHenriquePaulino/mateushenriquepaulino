@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Mateus Henrique!  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (conclusão prevista para o próximo ano).  
-📚 Pretendo seguir com **Pós-graduação em Engenharia de Software**.  
+📚 Planejo seguir com **Pós-graduação em Engenharia de Software** logo após a graduação.  
 💻 Apaixonado por tecnologia, programação e soluções criativas.  
 🚀 Objetivo: me tornar **Desenvolvedor Full Stack** e também explorar a área de **DevOps**.  
 
@@ -9,20 +9,22 @@
 
 ## 📖 Minha Jornada na Programação  
 
-- 🚀 **Início da jornada** → Comecei estudando **Frontend** (HTML, CSS e JavaScript).  
-- 🔧 **Evolução** → Ampliei conhecimentos com **PHP** e desenvolvi projetos como **CRUDs** e sistemas web.  
-- 🖥️ **Experiências práticas** →  
-  - Desenvolvimento de **sistema de monitoramento** de 150 computadores (Agente em Python + Backend em Laravel + PostgreSQL + TailwindCSS).  
+✨ Uma trajetória de constante aprendizado e evolução:  
+
+- 🎨 **Início** → Estudo de **Frontend** (HTML, CSS e JavaScript).  
+- 🛠️ **Evolução** → Consolidação em **PHP** e primeiros projetos de **CRUDs** e sistemas web.  
+- 💻 **Experiências práticas**:  
+  - Criação de **sistema de monitoramento** para 150 computadores (Agente em Python + Backend em Laravel + PostgreSQL + TailwindCSS).  
   - Automação de suporte em TI com **scripts em Python**.  
-  - Criação de **scripts de backup** para servidores **Windows Server**.  
+  - **Scripts de backup** para servidores **Windows Server**.  
 - 🌱 **Jornada atual** → Estudando e aplicando novas tecnologias:  
   - **React, React Native, Vue.js, Laravel, PostgreSQL, PowerShell, Python**.  
-- 🎯 **Próximos passos** →  
+- 🎯 **Próximos passos**:  
   - Concluir a graduação em ADS.  
   - Iniciar a **Pós-graduação em Engenharia de Software**.  
-  - Seguir carreira como **Desenvolvedor Full Stack** e futuramente **DevOps**.  
+  - Consolidar carreira como **Full Stack Developer** e futuramente **DevOps**.  
 
-💡 **Diferencial**: Já atuei com **Web Design**, tenho afinidade com **UX/UI** e adoro resolver problemas criando soluções funcionais e criativas.  
+💡 **Diferencial**: Experiência com **Web Design** e afinidade com **UX/UI**, sempre buscando criar soluções funcionais, práticas e com boa experiência para o usuário.  
 
 ---
 
